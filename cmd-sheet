@@ -1,0 +1,41 @@
+git push
+
+    1  terraform -version
+    2  pwd
+    3  ls
+    4  cd C:\Users\kanagaraj_s01\Documents\devops_courses
+    5  cd /d "C:\Users\kanagaraj_s01\Documents\devops_courses"
+    6  cd "C:\Users\kanagaraj_s01\Documents\devops_courses"
+    7  cd vprofile_project/
+    8  git clone https://github.com/devopshydclub/vprofile-project.git .
+    9  git branch
+   10  git branch -a
+   11  git checkout aws-LiftAndShift
+   12  cd
+   13  cd ..
+   14  git init
+   15  git status
+   16  cd practice/
+   17  git add .
+   18  git remove .
+   19  git reset .
+   20  git status
+   21  ls -la
+   22  git config
+   23  cd ..
+   24  git add . && git commit -m "initial commit"
+   25  git status
+   26  gh repo create
+   27  git remote add origin git@github.com:kanagaraj-pandian-p-s/Shell_Scripting.git
+   28  git branch -M master
+   29  git push -u origin master
+   30  git config --global user.name kanagaraj-pandian-p-s
+   31  git config --global user.email kanagarajpandian@gmail.com
+   32  git push -u origin master
+   33  ssh-keygen -t rsa
+   34  git push -u origin master
+   35  git status
+   36  git add . && git commit -m "added script num 14"
+   37  git status
+   38  git push -u origin master
+   39  history
